@@ -1,0 +1,3 @@
+#pragma once
+
+#define INK_VERSION "0.1.0-alpha"
