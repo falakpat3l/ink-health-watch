@@ -13,6 +13,8 @@ reminders.
 > wellness and healthy-ageing experiments. It makes no diagnostic or
 > treatment claims and must not be used for medical decisions.
 
+**New to the code?** Start with [GUIDE.md](GUIDE.md), a plain-English tour of how it works and where to make changes.
+
 ## Why
 
 I co-founded StrideMate, a low-cost walking-assist exoskeleton built on

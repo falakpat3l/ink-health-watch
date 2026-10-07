@@ -4,6 +4,13 @@ All notable changes to this project are listed here.
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 and versions follow [Semantic Versioning](https://semver.org/).
 
+## [0.1.1-alpha] - 2026-10-07
+
+### Added
+
+- `GUIDE.md`: a plain-English tour of the code, what each file does, and how
+  to test changes. Linked from the README.
+
 ## [0.1.0-alpha] - 2026-10-03
 
 ### Added
@@ -21,4 +28,5 @@ and versions follow [Semantic Versioning](https://semver.org/).
 - GitHub Actions CI: host tests and firmware build on every push.
 - MIT license.
 
+[0.1.1-alpha]: https://github.com/falakpat3l/ink-health-watch/releases/tag/v0.1.1-alpha
 [0.1.0-alpha]: https://github.com/falakpat3l/ink-health-watch/releases/tag/v0.1.0-alpha
